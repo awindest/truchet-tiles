@@ -134,11 +134,4 @@
 	.rotated {
 		transform: rotate(180);
 	}
-
-	svg {
-		transition: 0.75s;
-	}
-	svg:hover {
-		transform: rotate(90deg);
-	}
 </style>
